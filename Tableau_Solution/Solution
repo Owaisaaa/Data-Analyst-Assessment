@@ -1,0 +1,7 @@
+How to make all Employee Id (Id) a 7-digit number in Tableau
+e.g Employee Id of Priya should be 0001010
+1. Load Employees.csv
+2. Drag id to Marks area
+3. id -> format
+4. Pane -> Numbers -> Custom
+5. In format box write 0000000;-0;
